@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+
+body {
+    @apply bg-[#09090a] text-zinc-100;
+}
+
 /*Create your own css classes
 button{
     @apply bg-lime-700 px-4 h-10 rounded text-white;
